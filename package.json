@@ -10,7 +10,7 @@
   "scripts": {},
   "dependencies": {
     "lodash": "^3.6.0",
-    "waterline": "marnusw/waterline#specifyValidatedValues"
+    "waterline": "^0.10.21"
   },
   "devDependencies": {},
   "author": "Marnus Weststrate <marnusw@gmail.com>",
